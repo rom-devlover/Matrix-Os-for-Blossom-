@@ -12,6 +12,11 @@ Android Version : 14.
 
 # Notes 
 
+1. Vanilla Build
+2. Signed Build
+3.August Security Patch
+4. Play integrity certified by default
+
 
 
 
