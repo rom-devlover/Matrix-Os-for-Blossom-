@@ -7,6 +7,11 @@ Android Version : 14.
 
 # Bugs
 
+1. Volte did not work for some devices.   
+
+
+# Notes 
+
 
 
 
