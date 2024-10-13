@@ -17,6 +17,14 @@ Android Version : 14.
 3.August Security Patch
 4. Play integrity certified by default
 
+# Flashing Instructions   
+
+1.Extract the matrix zip file   
+2.open flashing txt file   
+3.And   
+4.Follow flashing txt file 
+
+# Download Link      
 
 
 
