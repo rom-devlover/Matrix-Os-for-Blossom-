@@ -24,7 +24,22 @@ Android Version : 14.
 3.And   
 4.Follow flashing txt file 
 
-# Download Link      
+# Download Link   
+
+https://hyp.sh/gZRnRy  
+
+# Gapps    
+
+
+
+# Orange Fox Recovery 
+
+
+
+# Firmware
+
+
+
 
 
 
